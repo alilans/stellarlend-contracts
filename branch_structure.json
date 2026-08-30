@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2019-hello-world-amm-rs-depends-on-a-stellarlend-amm",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2019-hello-world-amm-rs-depends-on-a-stellarlend-amm": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2019-hello-world-amm-rs-depends-on-a-stellarlend-amm",
+    "origin"
+  ]
+}
